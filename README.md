@@ -94,4 +94,4 @@ Now Ui Dashboard
 
 Here is a demo gif.
 
-![Demo][https://github.com/Aquib-Nawaz/DevCom/blob/master/src/assets/img/demo]
+![Demo](https://github.com/Aquib-Nawaz/DevCom/blob/master/src/assets/img/demo.gif)
