@@ -91,3 +91,7 @@ Now Ui Dashboard
 ├── tslint.json
 └── typings
 ```
+
+Here is a demo gif.
+
+![Demo][https://github.com/Aquib-Nawaz/DevCom/blob/master/src/assets/img/demo]
